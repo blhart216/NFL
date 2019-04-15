@@ -1,3 +1,2 @@
 # NFL
-NFL  Stats
-This is a web scraping notebook, utilizing beautiful soup.  Web scrape NFL.con for Stats and save to Excel.
+NFL  Stats is a web scraping notebook, utilizing beautiful soup.  This creates a soup of NFL.com Statistics page and iterates through the tables for desired regular season Stats for desired season and saves to Excel.
